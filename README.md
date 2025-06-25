@@ -19,18 +19,6 @@
 
 请大家注意PR格式！
 
-### Gitee链接（不一定能及时同步）
-[AHU-CS Repository](https://gitee.com/supersy/ahu-cs-repository)
-
-
-### 其他
-
-欢迎提issue，或者直接联系我
-
-E-mail: tenmoons@foxmail.com
-
-WeChat: undefined__me
-
 ## Star History
 <a href="https://star-history.com/#TenMoons/AHU-CS-Repository&Date">
  <picture>
